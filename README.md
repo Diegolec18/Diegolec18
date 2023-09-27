@@ -1,4 +1,4 @@
-![github-profile](./img/banner.jpg)
+![github-profile](./docs/img/banner.jpg)
 
 
 
